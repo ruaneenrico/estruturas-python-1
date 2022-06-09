@@ -1,4 +1,4 @@
-# estrutas de python
+# estrututas de python
 
 ----estrutura de repeticão----
 
